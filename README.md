@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohiniMahadevan
 - 👀 I’m interested in Data Science/Machine Learning/Natural Language Processing
-- 🌱 I’m currently learning IIT-M Advanced Programming with Master Data Science
+- 🌱 I’m currently pursuing IIT-M Advanced Programming with Master Data Science
 
 <!---
 RohiniMahadevan/RohiniMahadevan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
